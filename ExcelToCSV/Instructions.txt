@@ -1,0 +1,3 @@
+﻿Resultant file gets created inside below-mentioned path:
+
+ExcelToCSV\ExcelToCSV\bin\Debug\net5.0
